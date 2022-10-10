@@ -1,0 +1,689 @@
+<!doctype html>
+    <html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Digital 3D Crosswords / Chaitanya</title>
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+    </head>
+    <body class="bg-light my-2">
+        <div class="container-fluid">
+            <p class="text-center"><a class="text-secondary" href="https://chaitanya.wiki/">Let's go back home.</a></p>
+            <div class="row">
+                <div class="col-3">
+                </div>
+                <div class="col-6">
+                    <h1 class="display-1 text-center fw-bold">Digital 3D Crosswords</h1>
+                    <h2 class="text-center text-muted">for cruciverbalists around the world to enjoy</h2>
+                    <ul class="list-group mt-3">
+                        <li class="list-group-item"><span class="fw-bold">Status:</span> Complete</li>
+                        <li class="list-group-item"><span class="fw-bold">Time Span:</span> Jan 2022 - Apr 2022</li>
+                        <li class="list-group-item"><span class="fw-bold">Keywords:</span></li>
+                    </ul>
+                    <img class="img-fluid mt-3 w-75 d-block mx-auto" src="images/project3/img1.png">
+                    <h2 class="text-center w-75 d-block mx-auto">Where do you bury a Crossword World Champion after they die?</h2>
+                    <hr class="border muted opacity-75 my-5 w-50 d-block mx-auto">
+                    <h2 class="text-center fw-bold display-3">6 feet down,<br>2 feet across</h2>
+                    <hr class="border muted opacity-75 my-5 w-50 d-block mx-auto">
+                    <div class="row">
+                        <div class="col d-flex">
+                            <img class="img-fluid mt-3 align-self-center mx-auto d-block" src="images/project3/img2.png">
+                        </div>
+                        <div class="col d-flex">
+                            <img class="img-fluid align-self-center mt-3 mx-auto d-block" src="images/project3/img3.png">
+                        </div>
+                    </div>
+                    <p class="mt-3 fw-bold">The crossword is two-dimensional (down and across), but a human is three-dimensional (down, across, away). So, can you really burry a human 6 feet down, 2 feet across?</p>
+                    <hr class="border muted opacity-75 my-5 w-50 d-block mx-auto">
+                    <h2>Understanding Crosswords</h2>
+                    <ul>
+                        <li>word puzzle</li>
+                        <li>square or a rectangular grid</li>
+                        <li>white- and black-shaded squares</li>
+                        <li>fill the white squares with letters (forming words or phrases) by solving clues</li>
+                        <li>left to right (across) and top to bottom (down)</li>
+                    </ul>
+                    <ul>
+                        <li>every letter is “checked”</li>
+                        <li>each answer must contain at least three letters</li>
+                    </ul>
+                    <ul>
+                        <li>in US, shaded squares are typically limited to about 1/6th</li>
+                        <li>in Commonwealth Nations, lattice-like structure with a higher percentage of shaded squares (around 25%), leaving about half the letters in an answer unchecked</li>
+                    </ul>
+                    <ul>
+                        <li>grid should have 180-degree rotational symmetry (radial)</li>
+                        <li>pattern appears the same if the crossword is turned upside down</li>
+                        <li>all white cells be orthogonally contiguous</li>
+                    </ul>
+                    <ul>
+                        <li>Variants:</li>
+                        <ul>
+                            <li>barred crosswords use bold lines between squares (instead of shaded squares) to separate answers</li>
+                            <li>circular designs with answers entered either radially or in concentric circles</li>
+                        </ul>
+                    </ul>
+                    <ul>
+                        <li>"free form" crosswords or "criss-cross" puzzles have simple asymmetric designs</li>
+                    </ul>
+                    <ul>
+                        <li>standard size: 15×15 squares</li>
+                        <li>special sizes: 21×21, 23×23, 25×25</li>
+                    </ul>
+                    <ul>
+                        <li>clues appear outside the grid: an across list and a down list
+                        </li>
+                        <li>first cell of each entry contains a referenced number</li>
+                        <li>numbers are never repeated</li>
+                        <li>numbered cells are numbered consecutively, (left to right across each row, from top row and proceeding downward)</li>
+                        <li>capitalisation of answer letters is conventionally ignored</li>
+                    </ul>
+                    <ul>
+                        <li>Japanese crossword grids:</li>
+                        <ul>
+                            <li>shaded cells may not share a side</li>
+                            <li>corner squares must be white</li>
+                        </ul>
+                        <li>Swedish-style grid (picture crosswords):</li>
+                        <ul>
+                            <li>no clue numbers</li>
+                            <li>clues are contained in the cells which do not contain answers</li>
+                            <li>arrows indicate in which direction the clues have to be answered: vertical or horizontal</li>
+                            <li>grid often has one or more photos replacing a block of squares as a clue to one or several answers</li>
+                            <li>no symmetry in the grid but instead often have a common theme</li>
+                        </ul>
+                    </ul>
+                    <ul>
+                        <li>for NYT crosswords, difficulty increases throughout the week: Monday puzzles are the easiest and the puzzles get harder each day until Saturday. The Sunday puzzle is about the same level of difficulty as a weekday-size Thursday puzzle</li>
+                    </ul>
+                    <div class="row">
+                        <div class="col">
+                            <img class="img-fluid mt-3 mx-auto d-block" src="images/project3/img4.png">
+                            <p class="text-center">Barred Variant</p>
+                        </div>
+                        <div class="col">
+                            <img class="img-fluid mt-3 mx-auto d-block" src="images/project3/img5.png">
+                            <p class="text-center">Americas</p>
+                        </div>
+                        <div class="col">
+                            <img class="img-fluid mt-3 mx-auto d-block" src="images/project3/img6.png">
+                            <p class="text-center">Commonwealths</p>
+                        </div>
+                        <div class="col">
+                            <img class="img-fluid mt-3 mx-auto d-block" src="images/project3/img7.png">
+                            <p class="text-center">Japanese</p>
+                        </div>
+                    </div>
+                    <hr class="border muted opacity-75 my-5 w-50 d-block mx-auto">
+                    <h2>Understanding Current 3D Crosswords</h2>
+                    <div class="row">
+                        <div class="col-8">
+                            <ul>
+                                <li>x (across), y (down), z (away, to) where x, y, z are odd numbers</li>
+                                <li>x, y, z may or may not be equal</li>
+                                <li>all words run from one side to the other (except when direction changed)</li>
+                                <li>words longer than x, y, or z can change direction</li>
+                                <li>notations:</li>
+                                <ul>
+                                    <li>for across, 1ac-5</li>
+                                    <li>for down, 1d-5</li>
+                                    <li>for away, 1aw-5</li>
+                                    <li>for towards, 1to-5 (rarely used)</li>
+                                    <li>for direction changes, 2aw,8ac-3</li>
+                                </ul>
+                            </div>
+                            <div class="col-4">
+                                <img class="img-fluid mt-3 mx-auto d-block" src="images/project3/img8.png">
+                            </div>
+                        </div>
+                        <hr class="border muted opacity-75 my-5 w-50 d-block mx-auto">
+                        <h2>Analysing Current 3D Crosswords</h2>
+                        <h3 class="mt-3 h4 text-muted">What it succeeds to do?</h3>
+                        <ul>
+                            <li>provide a base for 3D crosswords with words running in all three directions</li>
+                            <li>odd number of squares in each direction</li>
+                            <li>every letter is “checked”</li>
+                            <li>easy visualisation on paper</li>
+                            <li>rotational symmetry</li>
+                        </ul>
+                        <h3 class="mt-3 h4 text-muted">What it fails to do?</h3>
+                        <ul>
+                            <li>always follows the same lattice structure</li>
+                            <li>fails to follow regular crossword structures</li>
+                            <li>high shaded-square percentage</li>
+                            <li>white cells are not orthogonally contiguous</li>
+                            <li>though x, y, z can be expanded as needed, they are rarely raised above 5</li>
+                            <li>order of words does not conform to regular crosswords</li>
+                        </ul>
+                        <h3 class="mt-3 h4 text-muted">What can be worked upon?</h3>
+                        <ul>
+                            <li>decreased shaded-squares</li>
+                            <li>increase white cells & words</li>
+                            <li>white cells be orthogonally contiguous</li>
+                            <li>create more lattice structures</li>
+                            <li>rotational symmetry across the diagonal</li>
+                            <li>bigger lattice sizes</li>
+                            <li>order of words</li>
+                            <li>use of longer words without direction changes</li>
+                            <li>visual representation</li>
+                        </ul>
+                        <h3 class="mt-3 h4 text-muted">What can be removed?</h3>
+                        <ul>
+                            <li>direction changes</li>
+                            <li>complicated notations that come with direction changes</li>
+                        </ul>
+                        <hr class="border muted opacity-75 my-5 w-50 d-block mx-auto">
+                        <h2>Popular Online Crosswords</h2>
+                    </div>
+                    <div class="col-3">
+                    </div>
+                </div>
+                <table class="table table-striped table-borderless mt-3 w-75 mx-auto">
+                    <thead class="text-center">
+                        <tr>
+                            <th class="col-2" scope="col"></th>
+                            <th class="col-3" scope="col">The New York Times</th>
+                            <th class="col-3" scope="col">USA Today</th>
+                            <th class="col-3" scope="col">Puzzle Me</th>
+                        </tr>
+                    </thead>
+                    <tbody class="table-group-divider">
+                        <tr>
+                          <th scope="row"></th>
+                          <td><img class="img-fluid mt-3 mx-auto d-block" src="images/project3/img13.png"></td>
+                          <td><img class="img-fluid mt-3 mx-auto d-block" src="images/project3/img12.png"></td>
+                          <td><img class="img-fluid mt-3 mx-auto d-block" src="images/project3/img11.png"></td>
+                      </tr>
+                      <tr>
+                          <th scope="row">Grid size</th>
+                          <td>15x15</td>
+                          <td>15x15</td>
+                          <td>various, mostly 15x15</td>
+                      </tr>
+                      <tr>
+                          <th scope="row">Sunday grid size</th>
+                          <td>21x21, 23x23, or 25x25</td>
+                          <td>15x15</td>
+                          <td>various, mostly 15x15</td>
+                      </tr>
+                      <tr>
+                          <th scope="row">Crossword style</th>
+                          <td>American</td>
+                          <td>American</td>
+                          <td>various, mostly American</td>
+                      </tr>
+
+                      <tr>
+                          <th scope="row">Access</th>
+                          <td>paid</td>
+                          <td>paid</td>
+                          <td>fremium</td>
+                      </tr>
+                      <tr>
+                          <th scope="row">Mini-crossword</th>
+                          <td>The Mini Crossword, 5x5</td>
+                          <td>QuickCross 4x4</td>
+                          <td>medium</td>
+                      </tr>
+                      <tr>
+                          <th scope="row">Difficulty</th>
+                          <td>increasing from Monday to Sunday</td>
+                          <td>mostly 4x4 or 5x5</td>
+                          <td>medium</td>
+                      </tr>
+                      <tr>
+                          <th scope="row">Interface</th>
+                          <td>grid on the left, clues on the right, current clue on top, clock & settings on top bar</td>
+                          <td>grid on the right, clues on the left, current clue on top, clock & settings on top bar</td>
+                          <td>grid on the left, clues on the right, current clue on top, clock & settings on top bar</td>
+                      </tr>
+                      <tr>
+                          <th scope="row">Clues</th>
+                          <td>across on the left, down on the right, current clue highlighted as well as corresponding clue in other direction, current clue also shown on top</td>
+                          <td>across on the top, down on the bottom, current clue highlighted as well correspinging clue in other direction, current clue shown on top</td>
+                          <td>across on the top, down on the bottom, current clue highlighted as well correspinging clue in other direction, current clue shown on top</td>
+                      </tr>
+                      <tr>
+                          <th scope="row">Clock</th>
+                          <td>middle of the top bar, can be turned off</td>
+                          <td>middle of the top bar, can be turned off</td>
+                          <td>left on the top bar, can be turned off</td>
+                      </tr>
+                      <tr>
+                          <th scope="row">Rules</th>
+                          <td>no rules provided, not about controls, not for beginners</td>
+                          <td>information provided on how to play, casual mode vs. expert modesaving your progress, keyboard shortcuts</td>
+                          <td>information provided on how to play, reveal, check, error check, score, clear, print, timer, voiceover & play together</td>
+                      </tr>
+                      <tr>
+                          <th scope="row">Hints</th>
+                          <td>option provided to reveal letter, word and the whole puzzle</td>
+                          <td>option provided to reveal letter, word and the whole puzzle</td>
+                          <td>option provided to reveal letter, word and the whole puzzle</td>
+                      </tr>
+                      <tr>
+                          <th scope="row">Checks</th>
+                          <td>option provided to autocheck, or check the current square, word or the whole puzzle</td>
+                          <td>option provided to autocheck</td>
+                          <td>option provided to autocheck</td>
+                      </tr>
+                      <tr>
+                          <th scope="row">Controls</th>
+                          <td>TAB & ENTER to go to next clue, SHIFT+ENTER & SHIFT+TAB to go to the previos clue, UP & DOWN arrow key to go above and below, LEFT & RIGHT arrow key to nagivate horizontally, SPACE to go to the next letter in the word, BACKSPACE/DELETE to erase and go back in the current word, ESC to use rebus</td>
+                          <td>TAB & ENTER to go to next clue,  SHIFT+ENTER & SHIFT+TAB to go to the previos clue, UP & DOWN arrow key to go above and below, LEFT & RIGHT arrow key to nagivate horizontally, SPACE to change direction, BACKSPACE/DELETE to erase and go back in the current word</td>
+                          <td>TAB & ENTER to go to next clue,  SHIFT+ENTER & SHIFT+TAB to go to the previos clue, UP & DOWN arrow key to go above and below, LEFT & RIGHT arrow key to nagivate horizontally, SPACE to change direction, BACKSPACE/DELETE to erase and go back in the current word, CTRL+R reveal word, CTRL+B reveal box,  CTRL+G reveal grid, CTRL+C check word, CTRL+X check box, CTRL+T read out time elapsed</td>
+                      </tr>
+                      <tr>
+                          <th scope="row">Rebus</th>
+                          <td>no limit on characters added, after adding they sit at the bottom of the square</td>
+                          <td>no rebus provided</td>
+                          <td>no rebus provided</td>
+                      </tr>
+                      <tr>
+                          <th scope="row">Settings</th>
+                          <td>use of arrow keys to either stay in the same square or move in the direction of the arrow, pressing the spacebar to either clear the current square or toggle between across and down, using backspace to move into the previous word, skipping filled quares or not, jumping to the first letter or the next word, interactions: play sound on solve, show timer, suppress disqualification, puzzle milestones</td>
+                          <td>option to select casual or expert mode, show timer, show mistakes (autocheck), skipping filled squares, advance to next clue after completing clue</td>
+                          <td>option to error check (autocheck), show timer, show linked clues, voiceover,  skipping filled squares, advance to next clue after completing clue or stay in same clue, pressing the spacebar to either clear the current square or toggle between across and down</td>
+                      </tr>
+                  </tbody>
+              </table>
+              <div class="row">
+                <div class="col-3"></div>
+                <div class="col-6">
+                    <hr class="border muted opacity-75 my-5 w-50 d-block mx-auto">
+                    <div class="row">
+                        <div class="col">
+                            <h2>Requirements</h2>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" checked disabled>
+                                <label class="form-check-label">stimulating logic processing</label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" checked disabled>
+                                <label class="form-check-label">comforting, pleasure, satisfaction</label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" checked disabled>
+                                <label class="form-check-label">collective, competitive experience</label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" checked disabled>
+                                <label class="form-check-label">crossword count</label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" checked disabled>
+                                <label class="form-check-label">web browser</label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" checked disabled>
+                                <label class="form-check-label">scoring</label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" checked disabled>
+                                <label class="form-check-label">score-sharing</label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" checked disabled>
+                                <label class="form-check-label">referenced number</label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" checked disabled>
+                                <label class="form-check-label">difficulty scaling</label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" checked disabled>
+                                <label class="form-check-label">various lattice structures</label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" checked disabled>
+                                <label class="form-check-label">bigger lattice size</label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" checked disabled>
+                                <label class="form-check-label">longer words & phrases</label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" checked disabled>
+                                <label class="form-check-label">clue position</label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" checked disabled>
+                                <label class="form-check-label">highlight clues</label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" checked disabled>
+                                <label class="form-check-label">timer/clock</label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" checked disabled>
+                                <label class="form-check-label">how-to information</label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" checked disabled>
+                                <label class="form-check-label">accessibility</label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" checked disabled>
+                                <label class="form-check-label">hints</label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" checked disabled>
+                                <label class="form-check-label">checks</label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" checked disabled>
+                                <label class="form-check-label">controls</label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" checked disabled>
+                                <label class="form-check-label">rebus</label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" checked disabled>
+                                <label class="form-check-label">defined settings</label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" checked disabled>
+                                <label class="form-check-label">audio cues</label>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <h2>Constraints</h2>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" checked disabled>
+                                <label class="form-check-label">every letter "checked”</label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" checked disabled>
+                                <label class="form-check-label">minimum three letters</label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" checked disabled>
+                                <label class="form-check-label">1/6th shaded</label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" checked disabled>
+                                <label class="form-check-label">rotational symmetry</label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" checked disabled>
+                                <label class="form-check-label">orthogonally contiguous blanks</label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" checked disabled>
+                                <label class="form-check-label">odd numbered size</label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" checked disabled>
+                                <label class="form-check-label">blank corner cubes</label>
+                            </div>
+                        </div>
+                    </div>
+                    <hr class="border muted opacity-75 my-5 w-50 d-block mx-auto">
+                    <h2>Ideation</h2>
+                    <div class="row">
+                        <div class="col">
+                            <div class="list-group mt-3">
+                                <div class="list-group-item">
+                                    <h3 class="h4 text-muted">Gameplay</h3>
+                                    <hr>
+                                    <ul>
+                                        <li>stimulaing logic processing</li>
+                                        <ul>
+                                            <li>rotation & zoom</li>
+                                            <li>scoring</li>
+                                        </ul>
+                                        <ul>
+                                            <li>time based</li>
+                                            <li>time restricted</li>
+                                            <li>points per clue</li>
+                                            <li>score-sharing</li>
+                                        </ul>
+                                        <ul>
+                                            <li>textual sharing</li>
+                                            <li>visual sharing</li>
+                                        </ul>
+                                        <li>difficulty scaling</li>
+                                        <ul>
+                                            <li>increasing difficulty</li>
+                                            <li>learning curve</li>
+                                            <li>fixed</li>
+                                        </ul>
+                                        <li>comforting, pleasure, satisfaction</li>
+                                        <ul>
+                                            <li>smaller size</li>
+                                            <li>less time to complete</li>
+                                            <li>more movement</li>
+                                        </ul>
+                                        <li>collective, competitive experience</li>
+                                        <ul>
+                                            <li>sharing opportunities</li>
+                                            <li>discussion opportunities</li>
+                                        </ul>
+                                        <li>hints</li>
+                                        <ul>
+                                            <li>reveal letter</li>
+                                            <li>reveal word</li>
+                                            <li>reveal puzzle</li>
+                                        </ul>
+                                        <li>audio cues</li>
+                                        <ul>
+                                            <li>sounds on movement, rotation</li>
+                                        </ul>
+                                        <li>defined settings</li>
+                                        <ul>
+                                            <li>options to disable features</li>
+                                            <li>modes</li>
+                                        </ul>
+                                        <li>rebus</li>
+                                        <ul>
+                                            <li>write options near clues</li>
+                                            <li>write options in cubes</li>
+                                            <li>how-to information</li>
+                                        </ul>
+                                        <ul>
+                                            <li>rules & controls</li>
+                                            <li>tips & tricks</li>
+                                        </ul>
+                                        <li>clue position</li>
+                                        <ul>
+                                            <li>bottom in three columns</li>
+                                            <li>left / right in three grouped rows</li>
+                                        </ul>
+                                        <li>checks</li>
+                                        <ul>
+                                            <li>letter / word / puzzle</li>
+                                            <li>autocheck</li>
+                                        </ul>
+                                        <li>highlight clues</li>
+                                        <ul>
+                                            <li>current clue displayed / highlighted</li>
+                                            <li>current word position highlighted in cube</li>
+                                        </ul>
+                                        <li>timer/clock</li>
+                                        <ul>
+                                            <li>option to disable</li>
+                                            <li>position - top / left / right</li>
+                                        </ul>
+                                    </ul>
+                                </div>
+                                <div class="list-group-item">
+                                    <h3 class="h4 text-muted">Interface</h3>
+                                    <hr>
+                                    <ul>
+                                        <li>feature groups</li>
+                                        <li>crossword count</li>
+                                        <li>open to select blocks</li>
+                                        <li>crossword building tool</li>
+                                    </ul>
+                                </div>
+                                <div class="list-group-item">
+                                    <h3 class="h4 text-muted">Controls</h3>
+                                    <hr>
+                                    <ul>
+                                        <li>zoom levels</li>
+                                        <li>zoom to hide outer layers</li>
+                                        <li>three-arrow keys</li>
+                                        <ul>
+                                            <li>right: x-direction</li>
+                                            <li>bottom: y-direction</li>
+                                            <li>up: z-direction</li>
+                                        </ul>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="list-group mt-3">
+                                <div class="list-group-item">
+                                    <h3 class="h4 text-muted">Crossword Creation</h3>
+                                    <hr>
+                                    <ul>
+                                        <li>referenced number</li>
+                                        <ul>
+                                            <li>left to right</li>
+                                            <li>top to bottom</li>
+                                            <li>front to back</li>
+                                            <li>corner to corner</li>
+                                            <li>corner side to corner side</li>
+                                        </ul>
+                                        <li>every letter "checked"</li>
+                                        <ul>
+                                            <li>differently shaped blocks</li>
+                                            <li>crossword creation tool</li>
+                                        </ul>
+                                        <li>minimum three letters</li>
+                                        <ul>
+                                            <li>bigger shaded blocks</li>
+                                            <li>corner blocks</li>
+                                        </ul>
+                                        <li>longer words & phrases</li>
+                                        <ul>
+                                            <li>end to end words</li>
+                                            <li>corner columns</li>
+                                        </ul>
+                                        <li>1/6th shaded</li>
+                                        <ul>
+                                            <li>lesser shaded blocks, harder the puzzle</li>
+                                            <li>even number of shaded blocks</li>
+                                            <li>~56-58 cubes for 7x7x7</li>
+                                        </ul>
+                                        <li>rebus</li>
+                                        <ul>
+                                            <li>too much information for screen readers</li>
+                                            <li>too crowded in a small space</li>
+                                        </ul>
+                                    </ul>
+                                </div>
+                                <div class="list-group-item">
+                                    <h3 class="h4 text-muted">Structure</h3>
+                                    <hr>
+                                    <ul>
+                                        <li>bigger lattice size</li>
+                                        <ul>
+                                            <li>15x15 = 225 cubes</li>
+                                            <li>5x5x5 = 125 cubes</li>
+                                            <li>17x17 = 289 cubes</li>
+                                            <li>7x7x7 = 343 cubes</li>
+                                            <li>19x19 = 361 cubes</li>
+                                            <li>9x9x9 = 729 cubes</li>
+                                            <li>zoom clarity</li>
+                                            <li>visually crowded</li>
+                                        </ul>
+
+                                        <li>orthogonally contiguos blanks</li>
+                                        <li>blank corner cubes</li>
+                                        <ul>
+                                            <li>brackets</li>
+                                            <li>block structures with removes</li>
+                                        </ul>
+                                        <li>various lattice structures</li>
+                                        <ul>
+                                            <li>open to select blocks</li>
+                                            <li>crossword building tool</li>
+                                        </ul>
+                                        <li>rotational symmetry</li>
+                                        <ul>
+                                            <li>rotational reference numbers</li>
+                                            <li>split block forms</li>
+                                            <li>multiple block forms</li>
+                                        </ul>
+                                        <li>odd numbered size</li>
+                                        <ul>
+                                            <li>easier placements</li>
+                                            <li>symmetrical options</li>
+                                        </ul>
+                                    </ul>
+                                </div>
+                                <div class="list-group-item">
+                                    <h3 class="h4 text-muted">Platform</h3>
+                                    <hr>
+                                    <ul>
+                                        <li>web browser support</li>
+                                        <li>JS libraries</li>
+                                        <li>WebGL</li>
+                                        <li>p5.js</li>
+                                    </ul>
+                                </div>
+                                <div class="list-group-item">
+                                    <h3 class="h4 text-muted">Accessibility</h3>
+                                    <hr>
+                                    <ul>
+                                        <li>audio cues</li>
+                                        <ul>
+                                            <li>on movement with controls</li>
+                                            <li>start / end</li>
+                                        </ul>
+                                        <li>defined settings</li>
+                                        <ul>
+                                            <li>voiceover</li>
+                                        </ul>
+                                        <li>controls</li>
+                                        <ul>
+                                            <li>keyboard keys only</li>
+                                            <li>webpage structure</li>
+                                        </ul>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <hr class="border muted opacity-75 my-5 w-50 d-block mx-auto">
+                    <h2>Solution</h2>
+                    <div class="row">
+                        <div class="col">
+                            <img class="img-fluid mt-3 mx-auto d-block" src="images/project3/img19.png">
+                            <p class="text-center">7 x 7 x 7 (343 cubes)</p>
+                        </div>
+                        <div class="col">
+                            <img class="img-fluid mt-3 mx-auto d-block" src="images/project3/img18.png">
+                            <p class="text-center">56 shaded cubes in the lattice</p>
+                        </div>
+                        <div class="col">
+                            <img class="img-fluid mt-3 mx-auto d-block" src="images/project3/img20.png">
+                            <p class="text-center">maxmimum 2 sets of 28</p>
+                        </div>
+                    </div>
+                    <ul class="my-5">
+                        <li>32% increase in available white cells for words</li>
+                        <li>multiple 7 letter words possible</li>
+                        <li>billions of possible lattices</li>
+                    </ul>
+                    <img class="img-fluid mt-3 mx-auto d-block" src="images/project3/img21.png">
+                    <p class="text-center mt-3">scroll to zoom; referencing: left to right, top to bottom, front to back (away)</p>
+                    <hr class="border muted opacity-75 my-5 w-50 d-block mx-auto">
+                    <h2>Final Solution</h2>
+                    <img class="img-fluid mt-3 mx-auto d-block" src="images/project3/img14.png">
+                    <img class="img-fluid mt-3 mx-auto d-block" src="images/project3/img15.png">
+                    <img class="img-fluid mt-3 mx-auto d-block" src="images/project3/img16.png">
+                    <img class="img-fluid mt-3 mx-auto d-block" src="images/project3/img17.png">
+                    <hr class="border muted opacity-75 my-5 w-50 d-block mx-auto">
+                </div>
+                <div class="col-3"></div>
+            </div>
+            <p class="text-center"><a class="text-secondary" href="https://chaitanya.wiki/">Let's go back home.</a></p>
+        </div>
+        <script src="js/bootstrap.bundle.min.js"></script>
+    </body>
+    </html>
