@@ -1,0 +1,16 @@
+.border-009988 {
+    border: 1px solid #009988 !important;
+}
+
+#project1button {
+    color: #009988;
+    border-color: #009988;
+    background-color: #F8FAFA;
+    border-width: 2px;
+}
+
+#project1button:hover {
+    color: #F8FAFA;
+    border-color: #009988;
+    background-color: #009988;
+}
