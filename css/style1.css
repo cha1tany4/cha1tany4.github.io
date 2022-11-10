@@ -5,12 +5,53 @@
 #project1button {
     color: #009988;
     border-color: #009988;
-    background-color: #F8FAFA;
+    background-color: #FFFFFF;
     border-width: 2px;
 }
 
 #project1button:hover {
-    color: #F8FAFA;
+    color: #FFFFFF;
     border-color: #009988;
     background-color: #009988;
+}
+
+
+#project2button {
+    color: #EE7733;
+    border-color: #EE7733;
+    background-color: #FFFFFF;
+    border-width: 3px;
+}
+
+#project2button:hover {
+    color: #FFFFFF;
+    border-color: #EE7733;
+    background-color: #EE7733;
+}
+
+
+#project3button {
+    color: #0077BB;
+    border-color: #0077BB;
+    background-color: #FFFFFF;
+    border-width: 3px;
+}
+
+#project3button:hover {
+    color: #FFFFFF;
+    border-color: #0077BB;
+    background-color: #0077BB;
+}
+
+#project4button {
+    color: #EE3377;
+    border-color: #EE3377;
+    background-color: #FFFFFF;
+    border-width: 3px;
+}
+
+#project4button:hover {
+    color: #FFFFFF;
+    border-color: #EE3377;
+    background-color: #EE3377;
 }
