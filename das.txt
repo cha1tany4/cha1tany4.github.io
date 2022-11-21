@@ -1,0 +1,736 @@
+\chapter{Curating}
+
+\section{Exploring Topics for Possible Exhibitions}
+
+Possible topic related to Assam:
+\begin{itemize}
+ \item Tea plantations of Assam during the British colonial era
+ \item Oil exploration in Assam during the British colonial era
+ \item Visual timeline of historical and current political events
+ \item Cutlery and cookware in Assamese households
+ \item Assamese literature / music / dance
+ \item All India Radio and Doordarshan in Assam
+ \item Symbolism in Assam ([check](https://assam.gov.in/about-us/391))
+ \item Petroleum and natural gas-based industries
+ \item Assamese neo-Vaishnavite culture (Majuli)
+ \item Journey through the postal services in Assam
+ \item "What Assam is for you?" From the perspectives of IIT Guwahati students
+ \item Daily life objects in Assam
+ \item Disease burden in Assam
+ \item Mosquito-borne diseases in Assam
+ \item Tribes in Assam
+\end{itemize}
+
+\noindent
+Other possible topics:
+\begin{itemize}
+ \item Actively Censored news and affairs
+ \item Corporate art / Illustration / Graphics
+ \item Internet that forms modern India
+ \item Ruins of the internet
+ \item "ideas... are getting harder and harder to find." - Nick Bloom et al
+ \item Life affected by pollution
+ \item India through a series of newspaper cuttings
+ \item India through postal stamps
+ \item Formula 1 and India
+ \item Sustainably incorrect
+ \item Life of students on the campus of IIT Guwahati
+\end{itemize}
+
+\section{Historical Exhibition on Tea Cultivation in Assam during the British Colonial Era}
+
+A critical review of conflict and harmony in a colonial context of the Ichang Riot exhibition in Yichang Museum, China was recently conducted. The review presented opportunities for better understanding historical accounts of various events from differing contexts and perspectives.
+
+The state of Assam is known throughout the world for it’s tea and tea cultivation industry as well as oil production. With the historical root of tea cultivation in Assam being during it’s occupation by the British in early 1800s, the topic provides a good base ground to offer differing perspectives on events that lead to the discovery, rise, fall and eventual growth of tea cultivation in the state during the British colonial era.
+
+This pilot study for the project was conducted in parallel to the literature review. The goal was to follow the curatorial process understood then and learn from the findings that could be implemented on the main project.
+
+For the study, objects were collected through visual imagery, textual information and documented videos on the internet. The data was used to create a timeline of events since the British discovered the tea plant in Assam in 1823. Images collected were from books, newspapers, and by photographers.
+
+\subsection{Keywords}
+agricultural, annexation, Assam, association, auction, Bengal, beverages, botanical gardens, Britain, China, English, export, horticultural, India, Khamti, labour, laws, migration, natives, plantations, planters, profit, province, railways, research, shipping, Singpho, tea, tea areas, tea garden, tribes, Upper Assam
+
+\subsection{Definitions}
+
+\begin{itemize}
+ \item \textbf{Assam.} A state in northeastern India.
+ \item \textbf{British.} The residents or inhabitants of Great Britain.
+ \item \textbf{Colonial.} Of or pertaining to a period when a country or territory was a colony. 
+ \item \textbf{Cultivation.} Improvement of land for or by agriculture.
+ \item \textbf{Migration.} An instance of moving to live in another place for a while.
+ \item \textbf{Plantation.} A large farm; estate or area of land designated for agricultural growth. Often includes housing for the owner and workers.
+\end{itemize}
+
+\subsection{Leading Quote}
+
+\begin{center}
+\textit{"A traditional Englishman drinks tea to the point where his blood has long-since been replaced with an infusion of Ceylon, Assam, and Darjeeling."}
+
+\textbf{Fennel Hudson}
+\end{center}
+
+\subsection{Timeline}
+\begin{itemize}
+\item \textbf{1823 -} Robert Bruce introduced to a plant with which the Singpho and Khamti people made beverages
+\item \textbf{early 1830s -} Robert's brother Charles arranges for leaves from Assam to be sent to the botanical gardens in Calcutta for examination
+\item \textbf{1833 -} tea garden was started by the Government in Lakhimpur district
+\item \textbf{1836 -} Nathaniel Wallich, William Griffith and John McClelland dispatched from the Tea Committee to visit Assam
+\item \textbf{1837 -} annexation of upper Assam leads to tea mass manufacture practices
+\item \textbf{1837 -} the first English tea garden was established at Chabua in Upper Assam
+\item \textbf{1838 -} first batch shipped to London from company's experimental garden
+\item \textbf{1838 -} Wasteland Rules of 1838 to clear and privatise plots of land for agricultural purposes, makes it nearly impossible for natives to start plantations
+\item \textbf{January 1839 -} the first batch auctioned in London
+\item \textbf{1839 -} two companies incorporated to pursue the tea's development in Assam: the Assam Tea Association in London and the Bengal Tea Association in Kolkata
+\item \textbf{1839 -} two companies amalgamated to form the Assam Company
+\item \textbf{1843 -} forcefully migrated Chinese staff leaves Assam
+\item \textbf{1847 -} Assam Company reorganised after struggles
+\item \textbf{1851 -} British exhibit their own Assam-grown tea at the Great Exhibition
+\item \textbf{1854 -} land rush, liberalisation of rules
+\item \textbf{1859 -} central Indian labour was imported for the tea plantations
+\item \textbf{1859 -} Jorhat Tea Company formed
+\item \textbf{1860s -} despite poor results, investment came from Britain to establish additional tea gardens
+\item \textbf{1870 -} 56 of 60 companies went bankrupt
+\item \textbf{February 1874 -} Assam proper, Cachar, Goalpara and the Hill districts were instituted as a separate province on a long-standing demand from the tea planters
+\item \textbf{1870s -} industrial mechanisms result in profitable companies
+\item \textbf{1879 -} Indian Tea Districts Association established in London
+\item \textbf{1881 -} Indian Tea Association established in Kolkata
+\item \textbf{1888 -} tea exported from India to Britain exceeds those exported from China
+\item \textbf{1891 -} organised research in tea started with a Joint Committee of the Indian Tea Association and the Agricultural and Horticultural Society of Bengal
+\item \textbf{1893 -} "The Chemistry and Agriculture of Tea including Growth and Manufacture" published by Mr. M. Kelway Bamber of the Joint Committee
+\item \textbf{1895 -} a series of long term studies by Dr. George Watt begin in tea areas of Assam and Naga hills
+\item \textbf{1898 -} "The Pests and Blight of the Tea Plant" published by Dr. George Watt
+\item \textbf{without year -} Tea Garden Time introduced by the British keeping in mind the early sunrise
+\item \textbf{without year -} railways were vital for the export of tea
+\end{itemize}
+
+\subsection{Collection of Photos}
+
+\subsection{Collection of Documents}
+
+% \begin{fullwidth}
+% \begin{tabular}{ |m{0.1\textwidth}|m{0.5\textwidth}|m{0.3\textwidth}|m{0.1\textwidth}| } 
+%  \hline
+%  \textbf{S. No.} & \textbf{Document} & \textbf{Author} & \textbf{Year} \\
+%  \hline
+%  1 & A Tea Planter's Life in Assam & George M Barker & 1884 \\ 
+%  \hline
+%  2 & Report on the Tea Plant of Upper Assam & William Griffith & 1840 \\ 
+%  \hline
+%  3 & Information on the Discovery and Character of the Tea Plant in Assam & Smith, Elder and Co. & 1839 \\ 
+%  \hline
+%  4 & cell8 & cell9 \\ 
+%  5 & cell8 & cell9 \\ 
+%  6 & cell8 & cell9 \\ 
+%  7 & cell8 & cell9 \\ 
+%  \hline
+% \end{tabular}
+% \end{fullwidth}
+
+
+\subsection{Discussion}
+
+An extensive search was conducted on the internet, but not enough objects could be collected to proceed to any further step. The reasons for failure in the collecting stage are as follows:
+
+\begin{itemize}
+ \item Inaccessibility to unpublished sources at the National museums.
+ \item Unavailability of published sources online.
+ \item Unavailability of physical books published in the late 19th and early 20th century
+ \item Even though in the public domain, it was not easy to download the sources from the repositories of libraries and museums.
+ \item Sources found all scenarios from the British point of view and not from that of the Indian population.
+ \item Most objects found produced a disjoint and dissociated narrative.
+ \item Push for a capitalist narrative post-independence that lead to the disappearance of various sources due to negligence.
+\end{itemize}
+ 
+It is hence better recommended to find a collection of objects before finalising the topic. A readily available corpus of information and objects could lead to a successful exhibit. The immediate task is to find a corpus of objects, images, texts, and audio that could be used for the purpose and lead to finalising the topic for this project. The corpus could be found in one of two ways:
+\begin{itemize}
+ \item A location that is accessible to the curator. This could be the campus of the Indian Institute of Technology Guwahati, the Amingaon area, or Guwahati city.
+ \item A partnership with an institution or museum could provide a collection of objects for the project.
+\end{itemize}
+
+
+\section{Experimental Exhibition around the Students of the Department of Design}
+
+Unable to find a collection of objects that could be curated, it was decided to create the collection from scratch instead. As discussed earlier, the 'do it' project provides instructions for visitors to participate and create artefacts for the exhibition. Going on similar terms, the project swayed towards designing and organising activities that could help create a collection that could be eventually curated for an exhibition. For the close proximity, students of the Department of Design were chosen to participate in these activities.
+
+\subsection{Keywords}
+
+accommodation, Amingaon, arrangements, art, Assam, assignment, associations, Brahmaputra, campus, colour, connection, commute, composition, concept, create, creativity, department, design, drawing, education, elements, empathy, engineering, friendship, gestures, Guwahati, happiness, history, hostel, humanity, humans, ideas, IIT, imagination, innovation, intention, invention, knowledge, language, learn, life, live, make, material, observations, originality, people, perspective, principles, professors, project, purpose, redesign, relationship, sketching, speak, staff, storytelling, stress, students, thinking, trends, understanding, university, visualisation, wordless
+
+\subsection{Definitions}
+
+\begin{itemize}
+ \item \textbf{Arrangement.} An agreement.
+ \item \textbf{Assignment.}
+ \begin{itemize}
+	 \item An assigned task.
+	 \item A task given to students, such as homework or coursework.
+  \end{itemize}
+ \item \textbf{Association.} 
+ \begin{itemize}
+	 \item The act of associating. 
+	 \item The state of being associated; a connection to or an affiliation with something.
+  \end{itemize}
+ \item \textbf{Connection.}
+ \begin{itemize}
+	 \item A feeling of understanding and ease of communication between two or more people.
+	 \item A kinship relationship between people.
+  \end{itemize}
+ \item \textbf{Create.}
+ \begin{itemize}
+	 \item To bring into existence.
+	 \item To make or produce from other materials or combinable elements or ideas; to design or invest with a new form, shape, function, etc.
+  \end{itemize}
+ \item \textbf{Creativity.} The ability to use imagination to produce a novel idea or product.
+ \item \textbf{Gesture.} 
+ \begin{itemize}
+	 \item A motion of the limbs or body, especially one made to emphasise speech.
+	 \item An act or a remark that serves as a formality or as a sign of attitude.
+  \end{itemize}
+ \item \textbf{Imagination.} The image-making power of the mind.
+ \item \textbf{Intention.} The goal or purpose.
+ \item \textbf{Observation.}
+ \begin{itemize}
+	 \item The act of observing, and the fact of being observed.
+	 \item A judgement based on observing.	
+  \end{itemize}
+ \item \textbf{Perspective.} The choice of a single angle or point of view from which to sense, categorise, measure or codify experience.
+ \item \textbf{Stress.}
+ \begin{itemize}
+	 \item Emotional pressure suffered by a human being or other animal.
+	 \item To suffer stress; to worry or be agitated.
+  \end{itemize}
+ \item \textbf{Wordless.} Conveyed without the use of words; unspoken or unsaid. 
+\end{itemize}
+
+\subsection{Leading Quote}
+
+\begin{center}
+\textit{"The very idea of an exhibition is that we live in a world with each other, in which it is possible to make arrangements, associations, connections and wordless gestures, and, through this mise en scène, to speak."}
+
+\textbf{Hans Ulrich Obrist}
+\end{center}
+
+\subsection{Pre-exhibition activities and experiments}
+
+A series of activities to create the required collection for the exhibit. Students of the Department of Design would participate in these activities through appropriate means as stated below. The activities are designed taking into consideration various aspects of curation as learned about in the literature review phase of the project. The activities are divided into 3 broad categories on the basis of the way they are to be conducted:
+\begin{itemize}
+ \item Individual activities
+ \item Group activities
+ \item Open activities
+\end{itemize}
+
+\subsubsection{Individual Activities}
+
+\noindent
+\textit{\textbf{Activity:} Self-portraits with Artificial Intelligence (AI)}
+
+\textit{Background:} Since the early 1960s, scientists and artists have been working on procedural 'rule-based' generation of images using mathematical patterns and algorithms which simulate brush strokes and effects. More recently, this has been expanded to generate images based on various text prompts. These images are formed from a database of millions of artworks and images collected to train these AI models. Using existing artworks and images from databases has led to new legal and ethical challenges for AI-generated artworks. Most of these challenges follow around the choice of an artist to participate and provide their work for these databases and if they would prefer their style to be used by others with/without appropriate credit. Proper control and rights for the artists, clearly marked and tagged AI images, demonetising AI-generated images, and stopping such programs for abusive or hateful content have been suggested as possible solutions. Getty Images, one of the world's biggest suppliers of stock images and editorial photography, has banned AI-generated content across their platforms over fears of legal challenges.
+
+\textit{Information:} For the activity, the participant would provide a detailed prompt to describe their self-portrait that they would like to use to create an AI-generated self-portrait.
+
+\textit{Context:} As design students, they are expected to keep up with much information related to continually evolving design and technology practices. AI-generated content is one such evolution of the past decade being implemented across platforms. The activity provides an opportunity to get hands-on experience with this novel technology for their design practice. A self-portrait also helps them better understand themselves as it is a representation created by them.
+
+\textit{Medium:} Digitally created via Midjourney and colour printed on 4”x4” uncoated card stock.
+
+\textit{Preservation:} Digitally preserved and archived as well as appropriately stored and available for physical display in the future.
+
+\textit{Resources:} Online form. Uncoated A3 paper. Colour printer.
+
+\textit{Budget:} INR 3500 (Midjourney + printing 400 portraits).
+
+\textit{Time Frame:} Through December 2022.
+
+\vspace{1cm}
+\noindent
+\textit{\textbf{Activity:} Favourite Design}
+
+\textit{Information:} For the activity, the participant would provide a details about their favourite design.
+
+\textit{Context:} As design students, we are often questioned about what is design and at times to give examples for the same. At one point or the other, each designer forms their own sense to evaluate designs from the general practice. Questioning a large population of designers could provide interesting details about the collective understanding of design.
+
+\textit{Medium:} Digitally collected via an online form and colour printed on 3”x3” uncoated card stock.
+
+\textit{Preservation:} Digitally preserved and archived as well as appropriately stored and available for physical display in the future.
+
+\textit{Resources:} Online form. Uncoated paper. Colour printer.
+
+\textit{Budget:} INR 600 (printing 400 images).
+
+\textit{Time Frame:} Through December 2022.
+
+\vspace{1cm}
+\noindent
+\textit{\textbf{Activity:} Unsolicited Advice}
+
+\textit{Information:} Participants create their own unsolicited advice that they would like to share with others combining text and sketches to voice a perspective that wasn't asked for. They can also further their message using images from magazines, newspapers, and stencils.
+
+\textit{Context:} Unsolicited advice is provided even when it wasn't asked for. Friends, family, partners or even among designers and students!
+
+\textit{Medium:} Physically written with sketch pens on cardboard sheets.
+
+\textit{Preservation:} Digitally preserved and archived through high quality images as well as appropriately stored and available for physical display in the future.
+
+\textit{Resources:} Markers. Used cardboard.
+
+\textit{Budget:} INR 800 (markers).
+
+\textit{Time Frame:} January 2023.
+
+Materials: Images from magazines and newspapers; lettering stencils; black and red markers; black and red construction paper; scissors; glue; poster board or heavy paper; rulers; cutting boards
+
+\vspace{1cm}
+\noindent
+\textit{\textbf{Activity:} Overheard at DoD}
+
+\textit{Information:} For the activitiy, participants submit what they've overheard other people talk, discuss and speak in the confines of the department.
+
+\textit{Context:} Every day while moving around we pass many people and overhear their conversations. Sometimes we hear things that just stay with us either because they are funny or they are meaningful. 
+
+\textit{Medium:} Written on a piece of paper and submitted either in a box or by posting it on the board.
+
+\textit{Preservation:} Digitally preserved and archived through high quality images as well as appropriately stored and available for physical display in the future.
+
+\textit{Resources:} A4 sheets. Sketch pens.
+
+\textit{Budget:} INR 400 (A4 sheets + sketch pens).
+
+\textit{Time Frame:} Through January 2023.
+
+\vspace{1cm}
+\noindent
+\textit{\textbf{Activity:} Wallpaper Patterns}
+
+\textit{Information:} For the activity, participants from each batch work together to create a wallpaper design that would represent their batch.
+
+\textit{Context:} People often use wallpapers to decorate and uniquely define their physical spaces.
+
+\textit{Medium:} 
+
+\textit{Preservation:} 
+
+\textit{Resources:} 
+
+\textit{Budget:} 
+
+\textit{Time Frame:} 
+
+Information
+Lines, shapes, forms, wallpaper patterns
+Collaboration
+One per batch?
+
+\subsubsection{Group activities}
+
+\vspace{1cm}
+\noindent
+\textit{\textbf{Activity:} Personal Stamps}
+
+\textit{Background:} 
+
+\textit{Information:} 
+
+\textit{Context:} 
+
+\textit{Medium:} 
+
+\textit{Preservation:} 
+
+\textit{Resources:} 
+
+\textit{Budget:} 
+
+\textit{Time Frame:} 
+
+\vspace{1cm}
+\noindent
+\textit{\textbf{Activity:} Sculpture with Leftovers}
+
+\textit{Background:} 
+
+\textit{Information:} 
+
+\textit{Context:} 
+
+\textit{Medium:} 
+
+\textit{Preservation:} 
+
+\textit{Resources:} 
+
+\textit{Budget:} 
+
+\textit{Time Frame:} 
+
+\vspace{1cm}
+\noindent
+\textit{\textbf{Activity:} Scratched IITG}
+
+\textit{Background:} 
+
+\textit{Information:} 
+
+\textit{Context:} 
+
+\textit{Medium:} 
+
+\textit{Preservation:} 
+
+\textit{Resources:} 
+
+\textit{Budget:} 
+
+\textit{Time Frame:} 
+
+\vspace{1cm}
+\noindent
+\textit{\textbf{Activity:} Painting Music}
+
+\textit{Background:} 
+
+\textit{Information:} 
+
+\textit{Context:} 
+
+\textit{Medium:} 
+
+\textit{Preservation:} 
+
+\textit{Resources:} 
+
+\textit{Budget:} 
+
+\textit{Time Frame:} 
+
+\vspace{1cm}
+\noindent
+\textit{\textbf{Activity:} Blackout Drapes}
+
+\textit{Background:} 
+
+\textit{Information:} 
+
+\textit{Context:} 
+
+\textit{Medium:} 
+
+\textit{Preservation:} 
+
+\textit{Resources:} 
+
+\textit{Budget:} 
+
+\textit{Time Frame:} 
+
+\vspace{1cm}
+\noindent
+\textit{\textbf{Activity:} Communal Mural}
+
+\textit{Background:} 
+
+\textit{Information:} 
+
+\textit{Context:} 
+
+\textit{Medium:} 
+
+\textit{Preservation:} 
+
+\textit{Resources:} 
+
+\textit{Budget:} 
+
+\textit{Time Frame:} 
+
+\vspace{1cm}
+\noindent
+\textit{\textbf{Activity:} Department Playlist}
+
+\textit{Background:} 
+
+\textit{Information:} 
+
+\textit{Context:} 
+
+\textit{Medium:} 
+
+\textit{Preservation:} 
+
+\textit{Resources:} 
+
+\textit{Budget:} INR 0.
+
+\textit{Time Frame:} 
+
+\subsubsection{Open activities}
+
+\vspace{1cm}
+\noindent
+\textit{\textbf{Activity:} One Word Story}
+
+\textit{Background:} 
+
+\textit{Information:} 
+
+\textit{Context:} 
+
+\textit{Medium:} 
+
+\textit{Preservation:} 
+
+\textit{Resources:} 
+
+\textit{Budget:} 
+
+\textit{Time Frame:} 
+
+\vspace{1cm}
+\noindent
+\textit{\textbf{Activity:} Pretend Play}
+
+\textit{Background:} 
+
+\textit{Information:} 
+
+\textit{Context:} 
+
+\textit{Medium:} 
+
+\textit{Preservation:} 
+
+\textit{Resources:} 
+
+\textit{Budget:} 
+
+\textit{Time Frame:} 
+
+Information
+Recreate humans in art works
+Collaboration
+In groups of 3 or more
+
+\vspace{1cm}
+\noindent
+\textit{\textbf{Activity:} Collective Artwork}
+
+\textit{Background:} 
+
+\textit{Information:} 
+
+\textit{Context:} 
+
+\textit{Medium:} 
+
+\textit{Preservation:} 
+
+\textit{Resources:} 
+
+\textit{Budget:} 
+
+\textit{Time Frame:} 
+
+Information
+Artwork.
+Context
+Individual students can place a single coloured pixel square on a canvas of 64 x 64) pixel squares, and wait one day before placing another (one batch per hour). Participants can choose their pixel's colour from a palette of sixteen colours.
+Collaboration
+Students work as teams (by the batch and one for the professors) to cover pixel squares on canvas one batch at a time every hour.
+Evaluation
+Collective work created by batches
+Wars and alliances among batches
+
+\vspace{1cm}
+\noindent
+\textit{\textbf{Activity:} Photographed}
+
+\textit{Background:} 
+
+\textit{Information:} 
+
+\textit{Context:} 
+
+\textit{Medium:} 
+
+\textit{Preservation:} 
+
+\textit{Resources:} Online form. Photograph paper. Colour printer.
+
+\textit{Budget:} INR 5000 (printing photographs).
+
+\textit{Time Frame:} 
+
+Information
+Shadows of DOD
+Fashion of DOD
+Eyes of DOD
+Collaboration
+Open call for students interested in photography to capture set themes.
+
+\vspace{1cm}
+\noindent
+\textit{\textbf{Activity:} Department’s Visual Journal}
+
+\textit{Background:} 
+
+\textit{Information:} 
+
+\textit{Context:} 
+
+\textit{Medium:} 
+
+\textit{Preservation:} 
+
+\textit{Resources:} A3 drawing journal. Assorted pens.
+
+\textit{Budget:} INR 1000 (journal + pens).
+
+\textit{Time Frame:} 
+
+\vspace{1cm}
+\noindent
+\textit{\textbf{Activity:} Polls}
+
+\textit{Background:} 
+
+\textit{Information:} 
+
+\textit{Context:} 
+
+\textit{Medium:} 
+
+\textit{Preservation:} 
+
+\textit{Resources:} Hard book print paper. Colour printer. Shaped stickers.
+
+\textit{Budget:} INR 3000 (printing + stickers).
+
+\textit{Time Frame:} 
+
+Information
+How happy are you?
+What are you most concerned about before coming back to campus from home?
+
+\vspace{1cm}
+\noindent
+\textit{\textbf{Activity:} Opinions}
+
+\textit{Background:} 
+
+\textit{Information:} 
+
+\textit{Context:} 
+
+\textit{Medium:} 
+
+\textit{Preservation:} 
+
+\textit{Resources:} Chart paper. Chalks. Tape.
+
+\textit{Budget:} INR 500 (chart paper + chalks + tape).
+
+\textit{Time Frame:} 
+
+“I want to have a conversation about…”
+“Before I die…”
+“Today I’m grateful for…”
+“I don’t like that design…”
+
+\vspace{1cm}
+\noindent
+\textit{\textbf{Activity:} Wall of Memes}
+
+\textit{Background:} 
+
+\textit{Information:} 
+
+\textit{Context:} 
+
+\textit{Medium:} 
+
+\textit{Preservation:} 
+
+\textit{Resources:} Online form. Uncoated A3 paper. Colour printer.
+
+\textit{Budget:} INR 1000 (printing).
+
+\textit{Time Frame:} December 2022 to February 2023.
+
+\vspace{1cm}
+\noindent
+\textit{\textbf{Activity:} Inventing Myths}
+
+\textit{Background:} 
+
+\textit{Information:} 
+
+\textit{Context:} 
+
+\textit{Medium:} 
+
+\textit{Preservation:} 
+
+\textit{Resources:} 
+
+\textit{Budget:} 
+
+\textit{Time Frame:} 
+
+\vspace{1cm}
+\noindent
+\textit{\textbf{Activity:} Called-in}
+
+\textit{Information:} For the activity, participants stand near a telephone booth and use it to call-in their stories or sing. Everything said would be recorded using an audio recorder.
+
+\textit{Context:} Telephones have been used for communication for over a century and their importance keeps increasing by every passing year. Once only available through public telephone booths, telephones are now available in the hands of every person. Experiencing a different way to use a stationary telephone.
+
+\textit{Medium:} Audio recording.
+
+\textit{Preservation:} Digitally preserved and archived through high quality audio recording as well as appropriately stored in physical memory devices. Available for auditory displays in the future.
+
+\textit{Resources:} Telephone shaped headphones. Telephone booth. Audio recorder/smartphone.
+
+\textit{Budget:} INR 2400 (telephone shaped headphones + telephone box)
+
+\textit{Time Frame:} Through early February 2023.
+
+\vspace{1cm}
+\noindent
+\textit{\textbf{Activity:} Chinese Whispers}
+
+\textit{Background:} Chinese whispers is a chain transmission experiment where players form a line or circle and transmit a message through whispers till the last person. The first person then compares the original message with the final version.
+
+\textit{Information:} For the activity, participants sit in a circle. Starting from two participants among the group on opposite sides, each participant writes and draws the respective prompt to the best of their interpretation.
+
+\textit{Context:} Messages can be often lost in transmission. Through both writing and drawing as well as utilising their observation skills, participants get to enjoy and understand characteristics of communication.
+
+\textit{Medium:} Physically done in a confined space. Each participant provided with two A5 sheets - one for writing and one for drawing.
+
+\textit{Preservation:} Digitally preserved and archived through high quality images as well as appropriately stored and available for physical display in the future.
+
+\textit{Resources:} A3 sheets cut into A5 size. Sketch pens.
+
+\textit{Budget:} INR 1600 (A3 sheets + sketch pens)
+
+\textit{Time Frame:} December 2022 to January 2023.
+
+\subsection{Selection of Activities}
+
+Activities will be conducted as per the timeline and availability of appropriate resources. The attempt is to conduct all activities to have a larger collection of artefacts. For all circumstances 15 February 2023 is the last date to conduct activities. The process of curating the collection and organising the exhibition would start post the date.
+
+% \subsection{Funding}
+
+\subsection{Timeline for Conducting Activities}
+
+% \subsection{Marketing}
+
+\subsection{Future Work}
+Activities will be conducted starting in the month of December 2022 and continue until 15 February 2023. All artefacts collected until then would be then used to curate the exhibition. Participatory co-curation sessions would be organised and conceptualisation of the exhibit would be completed. Possibly, the exhibition would take place in April 2023 during Ishanya. The final deliverables for the exhibition would include:
+\begin{itemize}
+ \item curated collection of artefacts
+ \item organising an exhibition in a physical space
+ \item exhibition guide and other associated material
+ \item digital archive of artefacts
+ \item instructional guide to recreate activities for future students
+ \item learning from the whole process
+\end{itemize}
+
+\clearpage
